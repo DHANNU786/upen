@@ -7,7 +7,7 @@ int in=1;
 if(ch.equalsIgnoreCase("true"))
 { 
 	%>
- <center><BR><BR><BR>	<h2>The Transaction for the customer ID<%=id1%> has been Accepted</h2>
+ <center><BR><BR><BR>	<h2>The Transaction for the customer ID<%=id1%> has been Accepted......</h2>
  <BR><BR>
  <input type="submit" value="     back     " onclick="2window.location='bmain.jsp'">  
 <%
