@@ -14,7 +14,7 @@
 
  function ff1(){
  if(document.f1.daccno.value==""){
- alert("enter destination account number");
+ alert("enter destination account number:");
   document.f1.daccno.focus();
  return false;
  }} function ff2(){
